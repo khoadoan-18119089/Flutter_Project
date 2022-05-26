@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "999212379852",
+    "firebase_url": "https://message-ca544-default-rtdb.firebaseio.com",
+    "project_id": "message-ca544",
+    "storage_bucket": "message-ca544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999212379852:android:3fd0c0587ff88a52199c69",
+        "android_client_info": {
+          "package_name": "com.example.message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999212379852-7r1pr915fdlvfilteqpmo11mhj0g8gd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUIrr-liyeMc0221qktnvXwFdv8YzGsbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999212379852-7r1pr915fdlvfilteqpmo11mhj0g8gd6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999212379852-4e423f1tlf0atrc4o0at7g1cgu2aevi0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.message"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
