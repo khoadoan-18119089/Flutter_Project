@@ -1,0 +1,3 @@
+getvideoHome:       https://youtube123.infinityfreeapp.com/videohome.php
+videodetail:               https://youtube123.infinityfreeapp.com/videohome.php?ID=1
+search:                          https://youtube123.infinityfreeapp.com/videohome.php?search=adsdf
