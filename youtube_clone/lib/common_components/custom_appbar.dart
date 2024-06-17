@@ -6,7 +6,7 @@ import 'package:youtube_clone/common_components/custom_text.dart';
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   const CustomAppBar({
     super.key,
-    this.leading,
+    this.leading, 
     this.title = '',
     this.widgetTitle,
     this.actions,

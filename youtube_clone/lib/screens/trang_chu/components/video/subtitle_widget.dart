@@ -50,21 +50,23 @@ class _SubtitleWidgetState extends AnimationState<SubtitleWidget> {
   @override
   void Function()? get onTap => _suTitleOnOff;
 
-  String get _getImageIcon {
-    switch (_controller.typeSubtitle) {
-      case Subtitle.on:
+  String get _getImageIcon {      
+    switch (_controller.typeSubtitle) { 
+      case Subtitle.on:    
         return IconVideo.iconSubtitleOn;
-      case Subtitle.off:
-        return IconVideo.iconSubtitleOff;
-    }
-  }
+      case Subtitle.off:  
+        return IconVideo.iconSubtitleOff;  
+    }   
+  } 
 
-  @override
-  Widget buildWidget(BuildContext context) {
-    return CustomIcon(
+  @override  
+  Widget buildWidget(  context) { 
+    return CustomIcon(    
       _getImageIcon,
-      size: 20,
-      color: Colors.white,
-    );
-  }
+      size: 20,     
+      color: Colors.white,   
+    );      
+     
+  }     
 }
+   

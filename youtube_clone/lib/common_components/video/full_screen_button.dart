@@ -81,11 +81,11 @@ class _FullScreenButtonWidgetState
         return CustomIcon(
           !model.isFullScreen
               ? Icons.fullscreen_outlined
-              : Icons.fullscreen_exit_outlined,
+              : Icons.fullscreen_exit_outlined, 
           size: 24,
           color: Colors.white,
-        );
-      },
+        );  
+      },  
     );
-  }
-}
+  }  
+}  
